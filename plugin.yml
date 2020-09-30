@@ -1,0 +1,7 @@
+name: ClanConfig
+version: 1.0.0
+author: PricklyRedstone
+main: xyz.clan.main.Main
+commands:
+    c:
+    clan:
